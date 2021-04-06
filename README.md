@@ -34,5 +34,6 @@ Ultimaker Cura 4.8.0
 - Print Temperature: 215 degrees C
 
 # Preview
+![preview](preview.png "preview")
 ![tensioner](tensioner.png "tensioner")
 ![idler](idler.png "idler")
