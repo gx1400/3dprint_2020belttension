@@ -15,6 +15,7 @@ I used this:
 
 # Changelog
 
+2021/04/07 - Added arch around mount to extrusion, minimize belt interference when near end of axis
 2021/04/06 - Initial commit
 
 
